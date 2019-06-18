@@ -1,12 +1,11 @@
 ## Cloning Yahoo tanpa kena Checkpoint
-![YahooCloning](https://raw.githubusercontent.com/N74NK/Yclone/master/thumb.png)
-### Instalasi 
+![YahooCloning]
 ```
 $ pkg install git python2 -y
-$ git clone https://github.com/N74NK/Yclone.git
+$ git clone https://github.com/apiipp/clown
 $ cd Yclone
 $ pip2 install -r requirements.txt
 $ python2 yclone.py
 ```
 Support terus ya cuk!
-Subs juga yt gua [Njank Soekamti](http://bit.ly/YtAdminTI3)
+Subs juga yt gua 5ecurity Clown Destroyed
